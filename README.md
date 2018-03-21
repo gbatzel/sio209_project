@@ -1,4 +1,9 @@
 # sio209_project
 
-Data directory contains raw data used for the project.
-Code directory contains jupyter notebooks used to run analysis on data.
+sio209_project/data/ raw data used for the project.
+
+sio209_project/code/ jupyter notebooks
+
+sio209_project/figures/ graphs that are outputs from code
+
+sio209_project/html/ webpage output from bokeh code
